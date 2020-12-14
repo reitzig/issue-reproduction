@@ -1,0 +1,1 @@
+Reproduces a problem with (chained) property converters.

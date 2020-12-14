@@ -1,0 +1,4 @@
+server:
+  port: 8080
+foo:
+  bar: ${FOO_BAR_COUNT}
